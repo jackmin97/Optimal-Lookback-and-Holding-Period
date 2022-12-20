@@ -47,7 +47,7 @@ We have found the optimal lookback and holding period for crude oil. Now, we wil
 2. Calculate future returns over a holding period
 3. Define strategy logic
 3.1 Buy when lookback returns are greater than 0
-3.2 Sell when lookback returns are less than 0
+3.2  Sell when lookback returns are less than 0
 4. Calculate Strategy returns
 
 The time series momentum strategy on Crude oil generated good returns over the backtesting period for optimal lookback of 30 days and hold of 30 days.
